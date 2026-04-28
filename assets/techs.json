@@ -1,0 +1,114 @@
+[
+  {
+    "name": ".NET",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+  },
+  {
+    "name": "C#",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"
+  },
+  {
+    "name": "ASP.NET Core",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+  },
+  {
+    "name": "Entity Framework",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+  },
+  {
+    "name": "Angular",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png"
+  },
+  {
+    "name": "TypeScript",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  },
+  {
+    "name": "React",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  },
+  {
+    "name": "Sass",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+  },
+  {
+    "name": "Material UI",
+    "icon": "https://www.vectorlogo.zone/logos/mui/mui-icon.svg"
+  },
+  {
+    "name": "Node.js",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+  },
+  {
+    "name": "Express",
+    "icon": "https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
+  },
+  {
+    "name": "SQL Server",
+    "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968364.png"
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+  },
+  {
+    "name": "Docker",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+  },
+  {
+    "name": "Kubernetes",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+  },
+  {
+    "name": "Azure",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+  },
+  {
+    "name": "AWS",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+  },
+  {
+    "name": "Firebase",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+  },
+  {
+    "name": "GitLab CI",
+    "icon": "https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"
+  },
+  {
+    "name": "Vite",
+    "icon": "https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg"
+  },
+  {
+    "name": "Camunda BPM",
+    "icon": "https://camunda.com/wp-content/uploads/camunda/blog-images/Social-Media-Favicon.jpg"
+  },
+  {
+    "name": "Python",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+  },
+  {
+    "name": "Figma",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+  },
+  {
+    "name": "Postman",
+    "icon": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+  }
+]
